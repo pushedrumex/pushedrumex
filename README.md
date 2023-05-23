@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Hello! This is Junior Server Developer minjung Kim.
+
+Thank you for visiting!
+
+### 💻 Experience
+| Organization | Date | Contents |
+| :----------: | :--: | :------: |
+| Grepp.co | 2023.06 ~ 2023.12 | Programmers backend devcourse 4nd |
+| Naver Connect Foundation | 2022.08 ~ 2022.12 | Boostcamp membership 7th |
+| Naver Connect Foundation | 2022.07 ~ 2022.08 | Boostcamp challenge 7th |
+| Hongik University | 2017.03 ~ 2022.02 | Mechanical System Design Engineer |
+
 <!--
 **pushedrumex/pushedrumex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
