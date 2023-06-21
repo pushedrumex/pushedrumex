@@ -41,7 +41,7 @@ Thank you for visiting!
 
 
 
-## 💻 Experience
+## 💻 Education
 | Organization | Date | Contents |
 | :----------: | :--: | :------: |
 | Grepp.co | 2023.06 ~ ing | Programmers backend devcourse 4nd |
