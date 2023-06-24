@@ -39,11 +39,10 @@ Thank you for visiting!
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org)
 [![AssertJ](https://img.shields.io/badge/AssertJ-880000?style=for-the-badge&logo=java&logoColor=white)](https://assertj.github.io/doc/)
 
-
-
 ## 💻 Education
 | Organization | Date | Contents |
 | :----------: | :--: | :------: |
+| Woowa Bros. | 2023.07 ~ ing | Woowa techcamp 6th |
 | Grepp.co | 2023.06 ~ ing | Programmers backend devcourse 4nd |
 | Naver Connect Foundation | 2022.08 ~ 2022.12 | Boostcamp membership web·mobile 7th |
 | Naver Connect Foundation | 2022.07 ~ 2022.08 | Boostcamp challenge 7th |
