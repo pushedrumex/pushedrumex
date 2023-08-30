@@ -40,7 +40,7 @@ Thank you for visiting!
 ## 💻 Education
 | Organization | Date | Contents |
 | :----------: | :--: | :------: |
-| Woowa Bros. | 2023.07 ~ ing | Woowa techcamp 6th |
+| Woowa Bros. | 2023.07 ~ 2023.8 | Woowa techcamp 6th |
 | Grepp.co | 2023.06 ~ ing | Programmers backend devcourse 4nd |
 | Naver Connect Foundation | 2022.08 ~ 2022.12 | Boostcamp membership web·mobile 7th |
 | Naver Connect Foundation | 2022.07 ~ 2022.08 | Boostcamp challenge 7th |
